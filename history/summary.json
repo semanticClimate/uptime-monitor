@@ -4,17 +4,19 @@
     "url": "https://dev-climatekg.semanticclimate.org/",
     "icon": "https://icons.duckduckgo.com/ip3/dev-climatekg.semanticclimate.org.ico",
     "slug": "dev-climate-kg-hetzner-vm-de-dev",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1260,
-    "timeDay": 1260,
-    "timeWeek": 1260,
-    "timeMonth": 1260,
-    "timeYear": 1260,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "40.66%",
+    "uptimeDay": "40.66%",
+    "uptimeWeek": "40.66%",
+    "uptimeMonth": "40.66%",
+    "uptimeYear": "40.66%",
+    "time": 1237,
+    "timeDay": 1237,
+    "timeWeek": 1237,
+    "timeMonth": 1237,
+    "timeYear": 1237,
+    "dailyMinutesDown": {
+      "2026-05-14": 51
+    }
   }
 ]
